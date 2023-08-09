@@ -1,4 +1,4 @@
-### Own File Converter
+# Own File Converter
 
 ## What it does
 
